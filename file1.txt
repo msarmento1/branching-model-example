@@ -1,1 +1,3 @@
 This commit changes file1.txt in branch main
+
+Branch 'feature-a' adds this line
